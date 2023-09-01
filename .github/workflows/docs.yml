@@ -30,6 +30,13 @@ jobs:
       run: |
         python build.py
 
+    - name: commit changes
+      uses: EndBug/add-and-commit@v9
+      with:
+       message: 'Commit built'
+       add: 'build/* --force'
+       cwd: './'
+
     # Publish built docs to gh-pages branch.
     # ===============================
     - name: Commit documentation changes
