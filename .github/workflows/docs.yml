@@ -43,10 +43,7 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        branch: gh-pages
+        branch: main
         directory: build
         github_token: ${{ secrets.GITHUB_TOKEN }}
         force: true
-
-
-    # ===============================
