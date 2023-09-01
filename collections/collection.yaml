@@ -1,0 +1,128 @@
+- card-title: GDR3 - Acceleration of the solar system
+  card-description: |
+    Acceleration of the solar system,"This visualisation illustrates the
+    aberration effect measured by Gaia in 3000 distant quasars. The motion is
+    activated running 25,000 trillion times faster than in reality. The quasars
+    appear to move closer towards the direction of acceleration, close to the
+    galactic centre.
+  card-image: https://img.youtube.com/vi/GlFsTXbpqkw/mqdefault.jpg
+  card-image-alt: Imge acceleration of the solar system
+  card-link: https://www.youtube.com/watch?v=GlFsTXbpq
+  card-other-classes: ""
+  card-tags:
+    - video
+
+- card-title: 3D structure of Galactic Molecular Clouds
+  card-description: |
+    Augmented reality view of selected clouds constructed from the analysis of Gaia data.
+  card-image: https://www2.mpia-hd.mpg.de/homes/tmueller/projects/ThavishaDustDensity/src/poster_ar.webp
+  card-image-alt: poster
+  card-link: https://www2.mpia-hd.mpg.de/homes/tmueller/projects/ThavishaDustDensity/index.html#ar
+  card-other-classes: horizontal
+  card-tags:
+    - poster
+
+- card-title: Gaia's multi-dimensional Milky Way
+  card-description: |
+    Several Gaia Collaboration sky maps: stellar motion, stellar ages,
+    brightness, variable stars, stellar extinction, interstellar medium, radial
+    velocities, chemical composition, stellar motion.
+  card-image: https://www.cosmos.esa.int/documents/29201/5432054/GaiaMultiDimensionalMilkyWay_small.jpg/b4babbbd-974c-22fc-6e82-b86db5559cbe?t=1686579776922
+  card-image-alt: Gaia's multi-dimensional Milky Way
+  card-link: https://www.cosmos.esa.int/web/gaia/iow_20230613
+  card-other-classes: ""
+  card-tags:
+    - IoW
+    - ESA story
+
+- card-title: John Doe
+  card-description: |
+    Architect & Engineer
+
+    Long descrition of the content of this image etc etc
+  card-image: http://placekitten.com/500/1000
+  card-image-alt: a cat
+  card-link: https://mpia.de
+  card-other-classes: vertical
+  card-tags:
+    - demo
+
+- card-title: John Doe
+  card-description: |
+    Architect & Engineer
+
+    Long descrition of the content of this image etc etc
+  card-image: http://placekitten.com/400/400
+  card-image-alt: a cat
+  card-link: https://mpia.de
+  card-other-classes: ""
+  card-tags:
+    - demo
+
+- card-title: John Doe
+  card-description: |
+    Architect & Engineer
+
+    Long descrition of the content of this image etc etc
+  card-image: http://placekitten.com/400/400
+  card-image-alt: a cat
+  card-link: https://mpia.de
+  card-other-classes: ""
+  card-tags:
+    - demo
+- card-title: John Doe
+  card-description: |
+    Architect & Engineer
+
+    Long descrition of the content of this image etc etc
+  card-image: http://placekitten.com/400/400
+  card-image-alt: a cat
+  card-link: https://mpia.de
+  card-other-classes: ""
+  card-tags:
+    - demo
+
+- card-title: John Doe
+  card-description: |
+    Architect & Engineer
+
+    Long descrition of the content of this image etc etc
+  card-image: http://placekitten.com/400/400
+  card-image-alt: a cat
+  card-link: https://mpia.de
+  card-other-classes: ""
+  card-tags:
+    - demo
+- card-title: John Doe
+  card-description: |
+    Architect & Engineer
+
+    Long descrition of the content of this image etc etc
+  card-image: http://placekitten.com/800/1200
+  card-image-alt: a cat
+  card-link: https://mpia.de
+  card-other-classes: horizontal vertical
+  card-tags:
+    - demo
+- card-title: John Doe
+  card-description: |
+    Architect & Engineer
+
+    Long descrition of the content of this image etc etc
+  card-image: http://placekitten.com/400/400
+  card-image-alt: a cat
+  card-link: https://mpia.de
+  card-other-classes: ""
+  card-tags:
+    - demo
+- card-title: John Doe
+  card-description: |
+    Architect & Engineer
+
+    Long descrition of the content of this image etc etc
+  card-image: http://placekitten.com/400/400
+  card-image-alt: a cat
+  card-link: https://mpia.de
+  card-other-classes: ""
+  card-tags:
+    - demo
