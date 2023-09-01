@@ -107,6 +107,9 @@ p {
    width: 100%;
    background-color: #eee;
    padding: 0px;
+   position: absolute;
+   top: 0px;
+   left: 0px;
 }
 
 .header>h1,
