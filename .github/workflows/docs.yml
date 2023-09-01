@@ -38,7 +38,8 @@ jobs:
         git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+        git add build
+        git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
         git push
 
     # Publish built docs to gh-pages branch.
