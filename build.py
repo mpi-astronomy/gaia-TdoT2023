@@ -49,7 +49,7 @@ def generate_collection(collection_filename: str, card_template: str) -> List[st
 
 
 def main(collection_filename: str = "collections/collection.csv"):
-    """ Build the index.html file and copy the assets directory. """
+    """Build the index.html file and copy the assets directory."""
     create_dir_silently(_BUILD_DIR)
 
     with open(os.path.join(_TEMPLATE_DIR, "index.html"), "r") as f:
@@ -67,3 +67,6 @@ def main(collection_filename: str = "collections/collection.csv"):
     shutil.copytree(
         os.path.join(_TEMPLATE_DIR, "assets"), _BUILD_DIR, dirs_exist_ok=True
     )
+
+    if __name__ == "__main__":
+        main()
