@@ -68,6 +68,6 @@ def main(collection_filename: str = "collections/collection.csv"):
         os.path.join(_TEMPLATE_DIR, "assets"), _BUILD_DIR, dirs_exist_ok=True
     )
 
-    if __name__ == "__main__":
-        main()
-        print("Build completed in {0}".format(_BUILD_DIR))
+if __name__ == "__main__":
+    main()
+    print("Build completed in {0}".format(_BUILD_DIR))
