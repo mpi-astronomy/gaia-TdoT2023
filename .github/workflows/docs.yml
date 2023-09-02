@@ -38,6 +38,7 @@ jobs:
         git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        rm -rf docs         # remove previous build
         mv ./build ./docs   # to publish from there
         git add docs
         git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}" || true
