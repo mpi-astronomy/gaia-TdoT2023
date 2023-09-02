@@ -107,6 +107,8 @@ p {
    width: 100%;
    background-color: #eee;
    padding: 0px;
+   top: 0px;
+   left: 0px;
 }
 
 .header>h1,
@@ -142,6 +144,10 @@ section {
    height: 50px;
    overflow: hidden;
    padding: 10px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+   font-family: "Roboto", "Tahoma", Arial, sans-serif;
+   font-size: 16px;
 }
 
 .bottom>p {
@@ -170,4 +176,41 @@ p {
    padding-bottom: 2px;
    color: #eee;
    border-radius: 5px;
+}
+
+.body {
+   margin: 0px;
+}
+
+a {
+   text-decoration: none;
+   text-decoration-line: none;
+   text-decoration-thickness: initial;
+   text-decoration-style: initial;
+   text-decoration-color: initial;
+}
+
+a:link {
+   text-decoration-thickness: 1px;
+   text-decoration-style: dotted;
+   text-decoration-line: underline;
+   text-underline-position: under;
+   text-underline-offset: -0.1em;
+}
+
+a:visited {
+   text-decoration-thickness: 1px;
+   text-decoration-style: dotted;
+   text-decoration-line: underline;
+   text-underline-position: under;
+   text-underline-offset: -0.1em;
+}
+
+a:hover {
+   text-decoration: underline;
+   text-decoration-style: solid
+}
+
+a:active {
+   text-decoration: underline;
 }
