@@ -1,13 +1,26 @@
 - card-title: GDR3 - Acceleration of the solar system
   card-description: |
-    Acceleration of the solar system,"This visualisation illustrates the
+    Acceleration of the solar system, "This visualization illustrates the
     aberration effect measured by Gaia in 3000 distant quasars. The motion is
     activated running 25,000 trillion times faster than in reality. The quasars
     appear to move closer towards the direction of acceleration, close to the
-    galactic centre.
+    galactic center.
   card-image: https://img.youtube.com/vi/GlFsTXbpqkw/mqdefault.jpg
   card-image-alt: Imge acceleration of the solar system
   card-link: https://www.youtube.com/watch?v=GlFsTXbpq
+  card-other-classes: ""
+  card-tags:
+    - video
+
+- card-title: The Hertzsprung-Russell diagram
+  card-description: |
+    An all-sky view of 58 000 stars from the second data release of ESA's Gaia satellite, 
+    located within 2200 light-years of the Sun. 
+    The animation shows how astronomers use measurements of star brightness, distance
+    and color to create a Hertzsprung-Russell diagram.
+  card-image: https://img.youtube.com/vi/jutw-lOwriw/mqdefault.jpg
+  card-image-alt: Imge acceleration of the solar system
+  card-link: https://www.youtube.com/watch?v=jutw-lOwriw
   card-other-classes: ""
   card-tags:
     - video
