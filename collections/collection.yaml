@@ -34,6 +34,7 @@
   card-other-classes: horizontal
   card-tags:
     - poster
+    - EN
 
 - card-title: Gaia's multi-dimensional Milky Way
   card-description: |
@@ -47,18 +48,19 @@
   card-tags:
     - IoW
     - ESA story
+    - EN
 
-- card-title: John Doe
+- card-title: 220 Millionen Gaia-Spektren und was sie uns sagen 
   card-description: |
-    Architect & Engineer
-
-    Long descrition of the content of this image etc etc
-  card-image: http://placekitten.com/500/1000
-  card-image-alt: a cat
-  card-link: https://mpia.de
-  card-other-classes: vertical
+    Im dritten Data Release, der im Juni diesen Jahres veröffentlicht wurde, kamen jetzt erstmalig auch 220 Millionen Spektren hinzu.
+  card-image: https://www.cosmos.esa.int/documents/29201/5432054/GaiaMultiDimensionalMilkyWay_small.jpg/b4babbbd-974c-22fc-6e82-b86db5559cbe?t=1686579776922
+  card-image-alt: Gaia's multi-dimensional Milky Way
+  card-link: https://www.cosmos.esa.int/web/gaia/iow_20230613
+  card-other-classes: ""
   card-tags:
-    - demo
+    - video
+    - talk
+    - DE
 
 - card-title: John Doe
   card-description: |
