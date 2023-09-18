@@ -7,7 +7,7 @@
     galactic center.
   card-image: https://img.youtube.com/vi/GlFsTXbpqkw/mqdefault.jpg
   card-image-alt: Imge acceleration of the solar system
-  card-link: https://www.youtube.com/watch?v=GlFsTXbpq
+  card-link: https://www.youtube.com/watch?v=GlFsTXbpqkw
   card-other-classes: ""
   card-tags:
     - video
@@ -53,9 +53,9 @@
 - card-title: 220 Millionen Gaia-Spektren und was sie uns sagen 
   card-description: |
     Im dritten Data Release, der im Juni diesen Jahres veröffentlicht wurde, kamen jetzt erstmalig auch 220 Millionen Spektren hinzu.
-  card-image: https://www.cosmos.esa.int/documents/29201/5432054/GaiaMultiDimensionalMilkyWay_small.jpg/b4babbbd-974c-22fc-6e82-b86db5559cbe?t=1686579776922
+  card-image: https://img.youtube.com/vi/W6zEBoRYZm0/mqdefault.jpg
   card-image-alt: Gaia's multi-dimensional Milky Way
-  card-link: https://www.cosmos.esa.int/web/gaia/iow_20230613
+  card-link: https://www.youtube.com/watch?v=W6zEBoRYZm0
   card-other-classes: ""
   card-tags:
     - video
