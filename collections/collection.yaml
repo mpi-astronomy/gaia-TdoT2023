@@ -54,10 +54,78 @@
   card-description: |
     Im dritten Data Release, der im Juni diesen Jahres veröffentlicht wurde, kamen jetzt erstmalig auch 220 Millionen Spektren hinzu.
   card-image: https://img.youtube.com/vi/W6zEBoRYZm0/mqdefault.jpg
-  card-image-alt: Gaia's multi-dimensional Milky Way
+  card-image-alt: 220 Millionen Gaia-Spektren und was sie uns sagen 
   card-link: https://www.youtube.com/watch?v=W6zEBoRYZm0
   card-other-classes: ""
   card-tags:
     - video
     - talk
     - DE
+
+- card-title: How did DPAC produce DR3?
+  card-description: |
+    The path the data made after coming down from the spacecraft as raw data until it reaches the archive as scientific data products for distribution.
+  card-image: https://www.cosmos.esa.int/documents/29201/29222/dpac-cu-dpcc-schematic-crop_20160421.png/1cb00e46-ce5a-42cd-93f8-1191761d1c6a?t=1461222779323
+  card-image-alt: How did DPAC produce DR3?
+  card-link: cosmos.esa.int/web/gaia/how-did-dpac-produce-dr3
+  card-other-classes: ""
+  card-tags:
+    - ESA story
+    - EN
+
+- card-title: Inside Gaia's billion-pixel camera
+  card-description: |
+    This animation illustrates how the billion-pixel camera at the heart of Gaia works. 
+  card-image: https://img.youtube.com/vi/bbfb8VhH7L0/mqdefault.jpg
+  card-image-alt: Inside Gaia's billion-pixel camera
+  card-link: https://www.youtube.com/watch?v=bbfb8VhH7L0
+  card-other-classes: ""
+  card-tags:
+    - video
+    - EN
+
+- card-title: Die Vermessung des Himmels mit Gaia
+  card-description: |
+    Eine kurze Vorstellung der Gaia-Mission
+  card-image: https://img.youtube.com/vi/YBuHAolC1xA/mqdefault.jpg
+  card-image-alt: Die Vermessung des Himmels mit Gaia
+  card-link: https://www.youtube.com/watch?v=YBuHAolC1xA
+  card-other-classes: ""
+  card-tags:
+    - video
+    - DE
+
+- card-title: Acceleration of the solar system
+  card-description: |
+    Antonella Vallenari answers the question: "How did you use the effect of aberration to measure the acceleration of the solar system with Gaia?"
+  card-image: https://img.youtube.com/vi/AELnfQnGMn8/mqdefault.jpg
+  card-image-alt: Acceleration of the solar system
+  card-link: https://www.youtube.com/watch?v=AELnfQnGMn8
+  card-other-classes: ""
+  card-tags:
+    - video
+    - Q&A
+    - EN
+
+- card-title: The chemistry of our Milky Way
+  card-description: |
+    What stars are made of can tell us about their birthplace and their journey afterwards, and therefore about the history of the Milky Way.
+  card-image: https://img.youtube.com/vi/L7WnIJEJXFo/mqdefault.jpg
+  card-image-alt: Acceleration of the solar system
+  card-link: https://www.youtube.com/watch?v=L7WnIJEJXFo
+  card-other-classes: ""
+  card-tags:
+    - video
+    - EN
+
+- card-title: The life of a star
+  card-description: |
+    This animation uses the Golden Sample of FGKM stars from Gaia DR3 to illustrate how the physical characteristics of the stars are derived from Gaia observations.
+  card-image: https://img.youtube.com/vi/Nf6kYYtkZpA/mqdefault.jpg
+  card-image-alt: Acceleration of the solar system
+  card-link: https://www.youtube.com/watch?v=Nf6kYYtkZpA
+  card-other-classes: ""
+  card-tags:
+    - video
+    - EN
+
