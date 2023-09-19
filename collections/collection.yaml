@@ -40,7 +40,7 @@
   card-description: |
     Several Gaia Collaboration sky maps: stellar motion, stellar ages,
     brightness, variable stars, stellar extinction, interstellar medium, radial
-    velocities, chemical composition, stellar motion.
+    velocities, chemical composition, and stellar motion.
   card-image: https://www.cosmos.esa.int/documents/29201/5432054/GaiaMultiDimensionalMilkyWay_small.jpg/b4babbbd-974c-22fc-6e82-b86db5559cbe?t=1686579776922
   card-image-alt: Gaia's multi-dimensional Milky Way
   card-link: https://www.cosmos.esa.int/web/gaia/iow_20230613
@@ -67,7 +67,7 @@
     The path the data made after coming down from the spacecraft as raw data until it reaches the archive as scientific data products for distribution.
   card-image: https://www.cosmos.esa.int/documents/29201/29222/dpac-cu-dpcc-schematic-crop_20160421.png/1cb00e46-ce5a-42cd-93f8-1191761d1c6a?t=1461222779323
   card-image-alt: How did DPAC produce DR3?
-  card-link: cosmos.esa.int/web/gaia/how-did-dpac-produce-dr3
+  card-link: https://cosmos.esa.int/web/gaia/how-did-dpac-produce-dr3
   card-other-classes: ""
   card-tags:
     - ESA story
