@@ -129,3 +129,15 @@
     - video
     - EN
 
+- card-title: Asteroid Populations in Gaia DR3
+  card-description: |
+    By far the largest group of Solar System objects in Gaia's data release 3 are 154,741 asteroids for which Gaia has determined their orbits.
+  card-image: https://img.youtube.com/vi/HBzS3PSMSOg/mqdefault.jpg
+  card-image-alt: Acceleration of the solar system
+  card-link: https://www.youtube.com/watch?v=HBzS3PSMSOg
+  card-other-classes: ""
+  card-tags:
+    - video
+    - EN
+
+
