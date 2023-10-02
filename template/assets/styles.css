@@ -183,7 +183,7 @@ p {
 }
 
 a {
-   color: "white";
+    color: white;
    text-decoration: none;
    text-decoration-line: none;
    text-decoration-thickness: initial;
@@ -192,6 +192,7 @@ a {
 }
 
 a:link {
+   color: white;
    text-decoration-thickness: 1px;
    text-decoration-style: dotted;
    text-decoration-line: underline;
@@ -200,6 +201,7 @@ a:link {
 }
 
 a:visited {
+   color: white;
    text-decoration-thickness: 1px;
    text-decoration-style: dotted;
    text-decoration-line: underline;
