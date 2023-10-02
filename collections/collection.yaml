@@ -109,7 +109,7 @@
 
 - card-title: The chemistry of our Milky Way
   card-description: |
-    What stars are made of can tell us about their birthplace and their journey afterwards, and therefore about the history of the Milky Way.
+    What stars are made of can tell us about their birthplace and their journey afterward, and therefore about the history of the Milky Way.
   card-image: https://img.youtube.com/vi/L7WnIJEJXFo/mqdefault.jpg
   card-image-alt: Acceleration of the solar system
   card-link: https://www.youtube.com/watch?v=L7WnIJEJXFo
@@ -139,5 +139,27 @@
   card-tags:
     - video
     - EN
+
+- card-title: Guide to our Galaxy
+  card-description: |
+    This virtual journey shows the different components that make up our home galaxy, the Milky Way, which contains about a hundred billion stars.
+  card-image: https://img.youtube.com/vi/G5AdrupH788/mq2.jpg
+  card-image-alt: Acceleration of the solar system
+  card-link: https://www.youtube.com/watch?v=G5AdrupH788
+  card-other-classes: ""
+  card-tags:
+    - video
+    - EN
+
+- card-title: Stellar Parallaxes and Proper Motions in 360 degrees
+  card-description: |
+    This video shows how stellar parallaxes would look like if they were 100,000 times larger than in reality. It also shows additionally the proper motion.
+  card-image: https://img.youtube.com/vi/CC-nMtwyRc8/mqdefault.jpg
+  card-image-alt: Acceleration of the solar system
+  card-link: https://www.youtube.com/watch?v=CC-nMtwyRc8
+  card-other-classes: ""
+  card-tags:
+    - video
+    - EN/DE
 
 
