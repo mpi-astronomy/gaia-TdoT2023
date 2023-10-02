@@ -187,21 +187,9 @@
 - card-title: BP/RP Spektren und das alte Herz der Milchstraße
   card-description: |
     Wie Gaia uns hilft, unsere Galaxie zu verstehen
-  card-image: https://keeper.mpdl.mpg.de/d/52dea0a769aa47b49517/files/?p=/previews/preview_BP%3ARP%20Spektren%20am%20MPIA.pdf.jpg&dl=1
+  card-image: https://keeper.mpdl.mpg.de/d/52dea0a769aa47b49517/files/?p=%2Fpreviews%2Fpreview_BP%3ARP%20Spektren%20und%20das%20alte%20Herz%20der%20Milchstra%C3%9Fe.pdf.jpg&dl=1
   card-image-alt: BP/RP Spektren und das alte Herz der Milchstraße
   card-link: https://keeper.mpdl.mpg.de/d/52dea0a769aa47b49517/files/?p=%2Fpdfs%2FBP%3ARP%20Spektren%20und%20das%20alte%20Herz%20der%20Milchstra%C3%9Fe.pdf
-  card-other-classes: ""
-  card-tags:
-    - Poster
-    - DE
-
-- card-title: Die dreidimensionale Struktur der Galaxie
-  card-description: |
-    Die dreidimensionale Struktur galaktischer Molekülwolkenkomplexe bis zu 2,5 kpc 
-    Augmented-Reality-Ansicht von Staubkonturen
-  card-image: https://keeper.mpdl.mpg.de/d/52dea0a769aa47b49517/files/?p=/previews/preview_Die%20dreidimensionale%20Struktur%20galaktischer.pdf.jpg&dl=1
-  card-image-alt: Die dreidimensionale Struktur der Galaxie
-  card-link: https://keeper.mpdl.mpg.de/d/52dea0a769aa47b49517/files/?p=%2Fpdfs%2FDie%20dreidimensionale%20Struktur%20galaktischer.pdf
   card-other-classes: ""
   card-tags:
     - Poster
@@ -266,7 +254,7 @@
 - card-title: Gaias multidimensionaler Blick auf die Milchstraße
   card-description: |
     Eine Zusammenstellung von Gaia-Himmelskarten, basierend auf verschiedenen Gaia-Datenprodukten aus der dritten Datenveröffentlichung von Gaia.
-  card-image: https://keeper.mpdl.mpg.de/d/52dea0a769aa47b49517/files/?p=/previews/preview_Gaias%20multidimensionaler%20Blick.pdf&dl=1
+  card-image: https://keeper.mpdl.mpg.de/d/52dea0a769aa47b49517/files/?p=%2Fpreviews%2Fpreview_Gaias%20multidimensionaler%20Blick.pdf.jpg&dl=1
   card-image-alt: Gaias multidimensionaler Blick auf die Milchstraße
   card-link: https://keeper.mpdl.mpg.de/d/52dea0a769aa47b49517/files/?p=%2Fpdfs%2FGaias%20multidimensionaler%20Blick.pdf
   card-other-classes: ""
