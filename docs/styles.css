@@ -183,6 +183,7 @@ p {
 }
 
 a {
+   color: "white";
    text-decoration: none;
    text-decoration-line: none;
    text-decoration-thickness: initial;
